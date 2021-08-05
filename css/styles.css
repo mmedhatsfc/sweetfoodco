@@ -10859,7 +10859,7 @@ body {
   height: 100%;
   position: relative;
 }
-body:before {
+body:before{
   content: "";
   position: fixed;
   top: 0;
